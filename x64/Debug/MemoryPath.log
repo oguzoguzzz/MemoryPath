@@ -1,0 +1,115 @@
+﻿  main.cpp
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(9,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(9,16): error C2143: syntax error: missing ';' before '*'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(9,25): error C2238: unexpected token(s) preceding ';'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(11,7): error C2039: 'uniquie_ptr': is not a member of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(11,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(11,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(11,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(13,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(16,15): error C2061: syntax error: identifier 'CProcess'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(16,2): error C2535: 'CPatternScan::CPatternScan(void)': member function already defined or declared
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(3,2): message : see declaration of 'CPatternScan::CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(3,14): error C2789: 'CPatternScan::CProcess': an object of const-qualified type must be initialized
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(9,8): message : see declaration of 'CPatternScan::CProcess'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(3,14): error C2789: 'CPatternScan::DWORD': an object of const-qualified type must be initialized
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(13,8): message : see declaration of 'CPatternScan::DWORD'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(5,3): error C2065: 'Process': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(6,3): error C2065: 'Data': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(7,3): error C2065: 'Size': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(16,14): error C2789: 'CPatternScan::CProcess': an object of const-qualified type must be initialized
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(9,8): message : see declaration of 'CPatternScan::CProcess'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(16,14): error C2789: 'CPatternScan::DWORD': an object of const-qualified type must be initialized
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(13,8): message : see declaration of 'CPatternScan::DWORD'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(18,7): error C2065: 'Process': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(18,29): error C2065: 'ModuleName': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(20,10): error C2039: 'Process': is not a member of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(1,7): message : see declaration of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(20,20): error C2065: 'Process': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(21,4): error C2065: 'Size': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(21,17): error C2039: 'Process': is not a member of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(1,7): message : see declaration of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(21,40): error C2065: 'ModuleName': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(22,4): error C2065: 'Data': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(22,16): error C3083: 'make': the symbol to the left of a '::' must be a type
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(22,22): error C2039: 'unique': is not a member of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(22,1): error C2065: 'unique': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(22,29): error C2065: 'Byte': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(22,34): error C2059: syntax error: ']'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(23,20): error C3861: 'SIZE_T': identifier not found
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(24,34): error C2039: 'Process': is not a member of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(1,7): message : see declaration of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(24,73): error C2061: syntax error: identifier 'LPCVOID'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(25,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(26,13): error C2065: 'Data': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(26,23): error C2065: 'Size': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(26,5): error C3861: 'memset': identifier not found
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(30,3): error C3321: an initializer list is unexpected in this context
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(29,16): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,3): error C2144: syntax error: 'auto' should be preceded by ';'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,25): error C2039: 'vector': is not a member of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,1): error C2065: 'vector': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,32): error C2065: 'BYTE': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,37): error C2065: 'Pattern': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,19): error C2119: 'FindPattern': the type for 'auto' cannot be deduced from an empty initializer
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,46): error C2143: syntax error: missing ';' before 'const'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(33,52): error C2059: syntax error: '->'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(34,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(35,4): error C2065: 'Pattern': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,15): error C2146: syntax error: missing ';' before identifier 'i'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,17): error C2143: syntax error: missing ';' before '='
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,17): error C2143: syntax error: missing ')' before '='
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,17): error C2059: syntax error: '='
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,22): error C2065: 'i': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,27): error C2065: 'Size': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,33): error C2065: 'i': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(36,1): error C2059: syntax error: ')'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(38,5): error C2062: type 'auto' unexpected
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(38,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(38,26): error C2143: syntax error: missing ';' before '}'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(39,16): error C2146: syntax error: missing ';' before identifier 'j'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(39,18): error C2143: syntax error: missing ';' before '='
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(39,18): error C2143: syntax error: missing ')' before '='
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(39,18): error C2059: syntax error: '='
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(39,1): error C2059: syntax error: ')'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(40,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(41,10): error C2065: 'Pattern': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(41,18): error C2065: 'j': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(42,10): error C2065: 'Pattern': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(42,18): error C2065: 'j': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(42,24): error C2065: 'Data': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(42,29): error C2065: 'i': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(42,33): error C2065: 'j': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(42,39): error C2065: 'DoesMatch': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(44,9): error C2065: 'DoesMatch': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(45,6): error C2534: 'CPatternScan': constructor cannot return a value
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(1,7): message : see declaration of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(45,6): error C2562: 'CPatternScan::CPatternScan': 'void' function returning a value
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(16,2): message : see declaration of 'CPatternScan::CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(47,4): error C2534: 'CPatternScan': constructor cannot return a value
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(1,7): message : see declaration of 'CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(47,4): error C2562: 'CPatternScan::CPatternScan': 'void' function returning a value
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(16,2): message : see declaration of 'CPatternScan::CPatternScan'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(49,18): error C2065: 'DWORD': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(49,24): error C2146: syntax error: missing ')' before identifier 'Offset'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(50,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(50,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,23): error C2039: 'vector': is not a member of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,8): error C2374: 'GetOffset': redefinition; multiple initialization
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(49,8): message : see declaration of 'GetOffset'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,1): error C2065: 'vector': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,31): error C2065: 'BYTE': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,38): error C2065: 'Pattern': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,47): error C2065: 'DWORD': undeclared identifier
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(58,53): error C2146: syntax error: missing ')' before identifier 'Offset'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(59,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(59,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(62,2): error C2059: syntax error: '}'
+C:\Users\oguzh\OneDrive\Masaüstü\VS2022\MemoryPath\main.cpp(62,1): error C2143: syntax error: missing ';' before '}'
